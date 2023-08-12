@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-mulish: Mulish;
+  --font-luckiest-guy: "Luckiest Guy";
+  --font-nunito: Nunito;
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-3xs: 10px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --font-size-45xl: 64px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-5xs: 8px;
+  --font-size-smi: 13px;
+  --font-size-6xs: 7px;
+
+  /* Colors */
+  --color-white: #fff;
+  --gray-1: #333;
+  --color-black: #000;
+  --color-crimson: #ec1f46;
+  --color-aliceblue: #f5fafe;
+  --gray-4: #bdbdbd;
+  --gray-5: #e0e0e0;
+  --color-gray-100: #0a223d;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-7xs: 6px;
+}
